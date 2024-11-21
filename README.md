@@ -1,15 +1,12 @@
-# Prova Segundo Bimestre 👋
-# Mobile:
+# Prova B2
 
-## Como iniciar
-
-1. Instalando dependencias
+ ### 1) Para instalar as dependencias
 
    ```bash
    npm install
    ```
 
-2. Inicie o app
+### 2) Para iniciar o APP
 
    ```bash
     npm run web
